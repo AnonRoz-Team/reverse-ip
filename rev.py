@@ -18,6 +18,7 @@ try:
 	from multiprocessing.pool import ThreadPool
 except:
 	print 'error : Install module requests and bs4'
+
 udah_di_cek = []
 web_list = []
 
